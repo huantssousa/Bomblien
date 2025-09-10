@@ -15,7 +15,7 @@ pip install pgzero
 Estrutura de Arquivos
 Para que o jogo encontre as imagens e sons corretamente, a pasta do seu projeto precisa seguir esta estrutura:
 
-seu_projeto/
+BOMBLIEN/
 ├── main.py              <-- Código principal
 │
 ├── images/              <-- Pasta para TODAS as imagens
