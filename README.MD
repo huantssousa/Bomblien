@@ -1,5 +1,5 @@
-Meu Jogo de Plataforma -  BOMBLIEN
-Este é um jogo de plataforma e ação 2D desenvolvido em Python com a biblioteca Pygame Zero. O objetivo é guiar o herói por um percurso cheio de inimigos, utilizando bombas e pulos para sobreviver e alcançar a bandeira da vitória no final.
+Meu Jogo -  BOMBLIEN
+Este é um jogo de ação 2D desenvolvido em Python com a biblioteca Pygame Zero. O objetivo é guiar o herói por um percurso cheio de inimigos, utilizando bombas e pulos para sobreviver e alcançar a bandeira da vitória no final.
 
 Requisitos
 Para rodar este jogo, você precisa ter o Python 3 instalado, juntamente com a biblioteca Pygame Zero.
